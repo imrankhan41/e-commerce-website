@@ -1,0 +1,40 @@
+body{
+    background: #FFFFFF;
+}
+.information-bg{
+    background: #FEEAE9
+}
+.panda-watch{
+    background: #ffa500;
+    
+}
+.panda-shoes{
+    background: #da70d6;
+    
+}
+.panda-bag{
+    background: #0000ff;
+    
+}
+.panda{
+    width: 100px;
+    height: 100px;
+}
+.btn-panda{
+    background-color: #e80762;
+    color:white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+.text-color{
+    color:#e80762;
+   
+}
+.btn{
+    background-color: #e80762;
+    color:white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
